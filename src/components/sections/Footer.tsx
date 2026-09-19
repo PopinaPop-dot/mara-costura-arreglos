@@ -19,6 +19,17 @@ export function Footer() {
         >
           Escribinos por WhatsApp
         </a>
+        <p className="mt-4 text-xs text-muted-foreground/70">
+          Sitio creado por{" "}
+          <a
+            href="https://wa.me/5493755345562?text=Hola%2C%20vi%20la%20web%20de%20Mara%20y%20quisiera%20consultar%20por%20una%20p%C3%A1gina%20web%20para%20mi%20negocio."
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-4 transition-colors hover:text-foreground"
+          >
+            Felker Studio
+          </a>
+        </p>
       </div>
     </footer>
   );
