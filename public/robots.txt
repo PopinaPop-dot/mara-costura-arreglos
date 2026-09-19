@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mara-costura-arreglos.vercel.app/sitemap.xml
